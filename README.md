@@ -20,4 +20,4 @@ See [LICENSE](LICENSE) file.
 ## Contact me
 
 - **Email**: basithrafiqfauzalbasith@gmail.com
-- **X (Twitter)**: [@GabiBrawl](https://x.com/katharsishtn)
+- **X (Twitter)**: [@ketuahutan](https://x.com/katharsishtn)
