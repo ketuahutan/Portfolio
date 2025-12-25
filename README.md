@@ -7,12 +7,13 @@ A basic portfolio to showcase my projects that i made, aimed to help and sharpen
 - **Fonts**: Google Fonts (Special Gothic Condensed/Expanded One)
 
 ## Portfolio Structures 
+```
 portfolio/
 ├── index.html          # Main/Basebone HTML
 ├── assets/
 │   ├── base.css 
 │   │   ├── images/         # Project images in the future and profile picture
-
+```
 ## License
 
 See [LICENSE](LICENSE) file.
